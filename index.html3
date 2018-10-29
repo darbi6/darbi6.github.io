@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        h1 {
+            font-family:cursive;
+            font-weight:bold;
+        }
+        h3 {
+            font-family:sans-serif;
+            font-style:italic;
+        }
+        h2 {
+            font-family:monospace;
+        }
+        
+    </style>
+    <body>
+        
+        <h1>Darbi's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>Soccer Life
+            </li>
+        </ul>
+         <ul>
+            <li>School
+            </li>
+        </ul>
+        <h2>The Life Of A Soccer Player</h2>
+        <h6>October 25,2018</h6>
+        
+        <p>In the life of a soccer player a lot of different things happen to you throughout your life. Whether it is winning games and tournaments, to getting injured, to loosing, and many more things can happen. But the most important things that you go through is what happens during your weeks and all the new people you meet along the way.  </p>
+        
+        <h2>Life At School</h2>
+        In school life can be very stressful and very hard. Especially if you have many outside activities that can affect your school life. For me with both soccer and school and other outside things that i have going on everything becomes extremely stressful with everything i have to do with school. 
+    </body>
+</html>
