@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h1 { color:blue;}
+        h2 { color:orange;}
+        #recipe {
+            background-color:lightblue;
+        }
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="recipe">Darbi's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ul>
+            <li><a href="https://en.wikibooks.org/wiki/Cookbook:Double_Chocolate_Brownies">Recipe #1</a></li>
+        </ul>
+        <ul>
+            <li><a href="https://en.wikibooks.org/wiki/Cookbook:Peanut_Butter_Cookies">Recipe #2</a></li>
+        </ul>
+         <ul>
+            <li><a href="https://en.wikibooks.org/wiki/Cookbook:Fried_Pickle">Recipe #3</a></li>
+        </ul>
+        <h2 id="brownie">Recipe #1</h2>
+        
+        
+        <ul>
+            <li>Time: 1 hour and 15 minutes</li>
+            <li>Serves:4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> ⅓ cup unsalted butter,
+¾ cup sugar,
+¼ cup water,
+one 12 ounce package dark or bittersweet chocolate chips divided in half,
+1 teaspoon vanilla,
+¾ cups all purpose flour,
+¼ teaspoon baking soda,
+¼ teaspoon salt,
+2 large eggs.
+</p>
+        
+    <p><em>Source: <a href="https://www.wikipedia.org/">Some recipes websites</a></em></p>
+    <h2 id="peanutbutter cookies">Recipe #2</h2>
+    <ul>
+            <li>Time: 50 minutes</li>
+            <li>Serves:as many as needed</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+         <p><strong>Step 1:</strong> 110 g (120 ml or ½ cup or 4 oz) of peanut butter,
+110 g (120 ml or ½ cup or 4 oz) of granulated sugar,
+110 g (120 ml or ½ cup or 4 oz) of brown sugar,
+110 g (120 ml or ½ cup or 4 oz) of butter or margarine, melted
+1 egg,
+½ teaspoon of vanilla essence,
+280 g (300 ml or 1 ¼ cup or 10 oz) of all-purpose flour,
+¼ teaspoon of salt,
+¾ teaspoon baking soda.
+         </p>
+         <p><em>Source: <a href="https://www.wikipedia.org/">Some recipes websites</a></em></p>
+         <h2 id="fried pickle">Recipe #3</h2>
+         <ul>
+            <li>Time: 20 minutes</li>
+            <li>Serves: 8</li>
+        </ul>
+          <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+         <p><strong>Step 1:</strong> Milk mixture:
+1 c. milk,
+1 egg beaten,
+1 tbsp. flour,
+1 tbsp. Worcestershire sauce,
+6 drops hot sauce,
+Flour mixture:
+3½ c. flour,
+3/4 tsp. salt,
+3/4 tsp. pepper,
+1 qt. sliced dill pickles,
+Dried dill (optional),
+Vegetable oil for deep frying.
+         </p>
+         <p><em>Source: <a href="https://www.wikipedia.org/">Some recipes websites</a></em></p>
+    </body>
+</html>
